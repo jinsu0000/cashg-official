@@ -7,6 +7,16 @@ The official workflow is:
 1. Prepare and refine the dataset.
 2. Run ENGLISH_MERGING training.
 
+## Demo
+
+`main_pen_state_animation.gif` shows pen-state transitions over generated trajectories.
+
+![Pen State Animation](main_pen_state_animation.gif)
+
+`main_gated_context_fusion_animation.gif` shows how gated context fusion affects character generation over time.
+
+![Gated Context Fusion Animation](main_gated_context_fusion_animation.gif)
+
 ## 1. Environment
 
 ```bash
