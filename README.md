@@ -9,13 +9,13 @@ The official workflow is:
 
 ## Demo
 
-`main_pen_state_animation.gif` shows pen-state transitions over generated trajectories.
+`assets/gifs/main_pen_state_animation.gif` shows pen-state transitions over generated trajectories.
 
-![Pen State Animation](main_pen_state_animation.gif)
+![Pen State Animation](assets/gifs/main_pen_state_animation.gif)
 
-`main_gated_context_fusion_animation.gif` shows how gated context fusion affects character generation over time.
+`assets/gifs/main_gated_context_fusion_animation.gif` shows how gated context fusion affects character generation over time.
 
-![Gated Context Fusion Animation](main_gated_context_fusion_animation.gif)
+![Gated Context Fusion Animation](assets/gifs/main_gated_context_fusion_animation.gif)
 
 ## 1. Environment
 
